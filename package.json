@@ -31,13 +31,13 @@
     "libs"
   ],
   "dependencies": {
-    "async": "^0.9.0",
-    "home": "^0.1.3",
-    "lame": "1.2.0",
-    "speaker": "0.2.4",
-    "pool_stream": "0.0.2",
-    "underscore": "~1.6.0",
-    "musicmetadata": "1.0.1"
+    "async": "latest",
+    "home": "latest",
+    "lame": "latest",
+    "speaker": "latest",
+    "pool_stream": "latest",
+    "underscore": "latest",
+    "musicmetadata": "latest"
   },
   "devDependencies": {
     "debug": "^2.1.0"
